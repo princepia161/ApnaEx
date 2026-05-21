@@ -7,7 +7,7 @@ API_ID = int(os.environ.get("API_ID", "20807000"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","cde2366a7c61e23f4cb44618cbe6cf70")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8564398983:AAHuuntq53gVgwIxQash63fatvHq-27BJTc")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8564398983:AAGxMpPkmLcgZsPnVzIQzCUIro5KNk76QBw")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@nxtgenx_bot)
 BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
@@ -24,13 +24,13 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://princepia161_db_user:KZWh
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003646612944"))
 # -----------------------------------------------
-join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/princepia">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Mirza_Ghallib" #without @
+ADMIN_BOT_USERNAME = "Princepia" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
 
