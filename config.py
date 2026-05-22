@@ -40,7 +40,7 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content
 # # Bot configuration
 # API_ID = int(os.environ.get("API_ID", "20807000"))
 # API_HASH = os.environ.get("API_HASH", "cde2366a7c61e23f4cb44618cbe6cf70")
-# BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+# BOT_TOKEN = os.environ.get("BOT_TOKEN", "8564398983:AAGxMpPkmLcgZsPnVzIQzCUIro5KNk76QBw")
 # BOT_USERNAME = os.environ.get("BOT_USERNAME", "@nxtgenx_bot")
 # OWNER_ID = int(os.environ.get("OWNER_ID", "890749443"))
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1783306092").split()))
